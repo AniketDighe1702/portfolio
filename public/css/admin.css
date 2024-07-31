@@ -1,0 +1,39 @@
+#admin-nav {
+    background-color: rgb(171, 171, 251);
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2vw;
+    font-weight: 800;
+    border-radius: 25px;
+}
+
+
+#resume-update {
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items : center;
+    justify-content: center;
+}
+
+#resume-confirm-buttom {
+    background-color: rgb(171, 171, 251);
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    margin: 30px;
+    font-size: 15px;
+}
+
+#link-input {
+    height: 20px;
+    width: 30vw;
+    padding: 5;
+    margin: 10;
+    border-radius: 5px;
+    color: rgb(99, 99, 246);
+    font-size: 15px;
+}
